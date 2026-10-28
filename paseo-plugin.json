@@ -1,0 +1,9 @@
+{
+  "id": "pagey",
+  "name": "Pagey Site",
+  "description": "Publish static sites to Pagey's free hosting from Paseo, with upload previews and updates at the same URL.",
+  "requirements": {
+    "paseo": ">=0.14.0-beta.1"
+  },
+  "media": ["assets/publishing.png"]
+}
